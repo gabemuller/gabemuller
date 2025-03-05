@@ -1,6 +1,6 @@
 # Olá! Sou Gabriel. 👋
 <p>💻 Sou um desenvolvedor Front-end, desde minha adolescência rodeado de computadores trabalhando com suporte técnico de hardware/software, hoje busco meu crescimento profissional na área de Desenvolvimento Web.</p>
-- Sou formado em Desenvolvimento de Games na Uniritter, onde tive cadeiras de programação, desenvolvimento web e modelagem 3d.
+* Sou formado em Desenvolvimento de Games na Uniritter, onde tive cadeiras de programação, desenvolvimento web e modelagem 3d.
 
 **📖 Stacks Principais**
 
