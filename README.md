@@ -2,7 +2,7 @@
 
 💻 Sou um desenvolvedor Front-end, desde minha adolescência rodeado de computadores trabalhando com suporte técnico de hardware/software. Hoje busco meu crescimento profissional na área de Desenvolvimento Web.  
 
-- Sou formado em Desenvolvimento de Games na Uniritter, onde tive cadeiras de Programação, Desenvolvimento-Web e Modelagem 3d.
+- Sou formado em Desenvolvimento de Games na Uniritter, onde tive cadeiras sobre Programação e Banco de dados.
 - Atualmente estou estudando o framework Vue.js para trabalhar com projetos maiores. 
 
 
